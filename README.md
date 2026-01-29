@@ -4,3 +4,4 @@ Basic Java programs covering fundamentals and logic building
 - Variables and Data Types
 - Operators
 - Conditionals Statements
+- Loops
