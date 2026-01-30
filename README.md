@@ -6,4 +6,4 @@ Basic Java programs covering fundamentals and logic building
 - Conditionals Statements
 - Loops
 - Patterns
-- Methods
+- Methods 
